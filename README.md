@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Luke A Hsu. I'm currently studying in Penn State University. You can reach me by this email address: xuxu.dec@outlook.com
+My name is Xu Xu. I'm currently studying in Penn State University. You can reach me by this email address: xuxu.dec@outlook.com
 
 
 <!--
